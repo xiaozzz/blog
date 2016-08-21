@@ -12,4 +12,6 @@ banner:
 
 事实证明我的 **无敌刺客SA** 值得一BAN
 
-![](/2016/08/20/Dota2-weekend/sa.jpg)
+<!--more-->
+
+![SA](/2016/08/20/Dota2-weekend/sa.jpg)
