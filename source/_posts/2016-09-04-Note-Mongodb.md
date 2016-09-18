@@ -2,7 +2,7 @@
 title: 随笔-Mongodb篇
 date: 2016-09-04 11:00:00
 tags: [Note, Mongodb]
-thumbnail: 
+thumbnail: /2016/09/04/Note-Mongodb/mongodb.jpg
 banner: 
 ---
 1. [update()](https://docs.mongodb.com/manual/reference/method/db.collection.update/)
