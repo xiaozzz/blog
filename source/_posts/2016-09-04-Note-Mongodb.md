@@ -46,7 +46,7 @@ banner:
 	-p:指明数据库的密码
 	-d:指明数据库的名字
 	-c:指明collection的名字
-	-o:指明到要导出的文件名
+	-o:指明到要导出的文件夹名
 	-q:指明导出数据的过滤条件
 	* mongorestore -h dbhost -u username -p password -d dbname -c collectionname --directoryperdb dbdirectory
 	参数说明：
@@ -55,8 +55,7 @@ banner:
 	-p:指明数据库的密码
 	-d:指明数据库的名字
 	-c:指明collection的名字
-	-o:指明到要备份的文件名
-	-q:指明备份数据的过滤条件
+	--directoryperdb:指明到备份的文件夹名
 
 4. 添加[index](https://docs.mongodb.com/manual/core/index-single/)
 	增查删索引：
