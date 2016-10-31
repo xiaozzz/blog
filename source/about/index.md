@@ -13,4 +13,4 @@ QQ号: 727318143
 个人博客地址: [zzzkky.cn](http://zzzkky.cn)
 备用博客地址: [zzzkky.top:4000](http://zzzkky.top:4000)
 ***
-Steam64位账号链接: [76561198113000559](http://steamcommunity.com/profiles/76561198113000559) (已暂时脱坑)
+Steam64位账号链接: [76561198113000559](http://steamcommunity.com/profiles/76561198113000559)

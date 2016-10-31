@@ -15,10 +15,13 @@ layout: page
 		- 基本顺利完成比赛
 		- 对于用户登陆存在一些问题，需要做重定向处理，已修复
 		- 学会使用Nodejs+Express框架开发小型网站系统
+	* 相关报道链接：
+		- [链接1](http://www.niuyuan.com/CompanyNews/nybdxye.shtml)
+		- [链接2](http://www.niuyuan.com/CompanyNews/niuyuanbei.shtml)
 
 2. 徒步健身项目
-	* 项目时间：2016-07-23 至 2016-10-20
-	* 活动时间：2016-09-01 至 2016-10-20
+	* 项目时间：2016-07-23 至 2016-10-31
+	* 活动时间：2016-09-01 至 2016-10-22
 	* 活动地点：上海市
 	* 参与人数：报名6万人，实际参与1万人
 	* 活动全称：上海市班组（团队）文化网络大奖赛-健身徒步赛将
@@ -26,4 +29,8 @@ layout: page
 	* 项目负责人：赵晓辉，熊伟伦，王茀宗
 	* Github：[https://github.com/Azard/Metapod](https://github.com/Azard/Metapod)
 	* 活动总结：
-		- 待更新
+		- 顺利完成比赛
+		- 该项目是项目[Caterpie](https://github.com/Azard/Caterpie)的延续
+		- 高并发、负载均衡、反向代理
+	* 相关报道链接：
+		- [链接1](http://www.shjcw.gov.cn/renda/node5902/node5904/node5913/u1ai6105268.html)
