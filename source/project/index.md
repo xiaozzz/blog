@@ -3,6 +3,7 @@ title: Project
 layout: page
 ---
 1. 定向越野项目
+	* [归档链接](http://zzzkky.cn:3001)
 	* 项目时间：2016-04-10 至 2016-06-05
 	* 活动时间：2016-06-05上午
 	* 活动地点：上海市顾村公园
@@ -20,6 +21,7 @@ layout: page
 		- [链接2](http://www.niuyuan.com/CompanyNews/niuyuanbei.shtml)
 
 2. 徒步健身项目
+	* [归档链接](http://zzzkky.cn:3002/mainpage?phone=18918885587&password=96e79218965eb72c92a549dd5a330112)
 	* 项目时间：2016-07-23 至 2016-10-31
 	* 活动时间：2016-09-01 至 2016-10-22
 	* 活动地点：上海市
