@@ -1,7 +1,7 @@
 ---
-title: 随笔-NodeJs-Module篇
+title: 随笔-Node.js-Module篇
 date: 2016-09-04 10:00:00
-tags: [Note, NodeJs, Module]
+tags: [Note, Node.js, Module]
 thumbnail: /2016/09/04/Note-NodeJs-Module/nodejs.jpg
 banner: 
 ---

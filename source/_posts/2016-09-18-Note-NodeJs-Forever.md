@@ -1,7 +1,7 @@
 ---
-title: 随笔-NodeJs-Forever篇
+title: 随笔-Node.js-Forever篇
 date: 2016-09-18 11:00:00
-tags: [Note, NodeJs, Forever]
+tags: [Note, Node.js, Forever]
 thumbnail: /2016/09/18/Note-NodeJs-Forever/nodejs.jpg
 banner: 
 ---
