@@ -1,7 +1,7 @@
 ---
 title: Dota2周末勇士联赛夺冠！
 date: 2016-08-20 21:00:00
-tags: [Dota]
+tags: [Dota, Game]
 thumbnail: /2016/08/20/Dota2-weekend/logo.png
 banner:
 ---
