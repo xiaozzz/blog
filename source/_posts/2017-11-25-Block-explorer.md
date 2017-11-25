@@ -8,7 +8,8 @@ banner:
 ## 此篇博客介绍到目前为止(2017.11.25)如何配置bitcoin以及bitcoin-cash区块浏览器
 
 1. 总览说明
-使用bitcore-node作为底层区块链节点，配合insight-api模块和insight-ui模块。
+	a) 使用bitcore-node作为底层区块链节点，配合insight-api模块和insight-ui模块。
+	b) 实例：开源官方的[btc-explorer](https://insight.bitpay.com/)/[bch-explorer](https://bch-insight.bitpay.com/) 以及复杂美公司配置的[btc-explorer](http://118.31.213.53:3001/insight/)/[bch-explorer](http://118.31.213.53:3002/insight/)
 
 2. 配置要求
 	a) 系统Linux可以直接运行，OSX需要自己编译bitcoin/bitcoin-abc，不支持Windows
