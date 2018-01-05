@@ -14,7 +14,7 @@ db.createUser(
    {
      user: "accountUser",
      pwd: "password",
-     roles: [ "readWrite", "dbAdmin" ]
+     roles: [{ role: "readWrite", db: "yourdatabase" }]
    }
 )
 ```
