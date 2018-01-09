@@ -1,5 +1,5 @@
 ---
-title: Casper技术博客
+title: Casper技术博客03
 date: 2018-01-03
 tags: [Ethereum, Blockchain, Golang, Casper]
 thumbnail: /2018/01/03/casper03_withdrawal_and_consensus/logo.jpg
@@ -76,7 +76,7 @@ COMMIT消息与PREPARE消息类似，之前共识信息数据结构记录了父�
 
 \[1\] 共识算法的比较: http://www.jianshu.com/p/df8200207d14
 
-\[2\] 以太坊紫皮书: https://cdn.hackaday.io/files/10879465447136/Mauve%20Paper%20Vitalik.pdf
+\[2\] 以太坊紫皮书: https://docs.google.com/document/d/1maFT3cpHvwn29gLvtY4WcQiI6kRbN_nbCf3JlgR3m_8/edit
 
 \[3\] 复杂美 Casper-Go 项目源代码
 

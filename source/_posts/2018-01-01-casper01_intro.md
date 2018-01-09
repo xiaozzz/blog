@@ -1,5 +1,5 @@
 ---
-title: Casper技术博客
+title: Casper技术博客01
 date: 2018-01-01
 tags: [Ethereum, Blockchain, Golang, Casper]
 thumbnail: /2018/01/01/casper01_intro/logo.jpg

@@ -1,5 +1,5 @@
 ---
-title: Casper技术博客
+title: Casper技术博客04
 date: 2018-01-04
 tags: [Ethereum, Blockchain, Golang, Casper]
 thumbnail: /2018/01/04/casper04_slash/logo.jpg
@@ -94,7 +94,7 @@ func double_prepare_slash(prepare_msg, commit_msg byte) error {
 
 ## 参考
 
-\[1\] 最新以太坊紫皮书: https://cdn.hackaday.io/files/10879465447136/Mauve%20Paper%20Vitalik.pdf  
+\[1\] 最新以太坊紫皮书: https://docs.google.com/document/d/1maFT3cpHvwn29gLvtY4WcQiI6kRbN_nbCf3JlgR3m_8/edit 
 \[2\] 老版以太坊紫皮书中文版: http://8btc.com/thread-40113-1-1.html  
 \[3\] 复杂美 Casper-Go 项目源代码
 \[4\] Minimal Slashing Conditions: https://medium.com/@VitalikButerin/minimal-slashing-conditions-20f0b500fc6c
