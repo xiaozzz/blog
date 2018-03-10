@@ -32,3 +32,17 @@ layout: page
 	* Introduction：手机信号切换，切换循环问题，希望通过实际数据发现问题并解决。
 	* Experiment：通过和中国联通合作获取数据进行实验。
 	* Accepted by: IEEE Network
+
+--------------------------
+
+本科阶段：
+
+2. Fine-grained Diagnosis of Performance Problems in Android Apps 合作研究 2015.10-2016.3
+	* 上一个项目Responsiveness Analysis for Android Apps 的延伸
+	* 解决了针对耗时函数的截取分析，从而自动化找出应用性能问题
+	* 提供操作应用的录像及回放，帮助开发者更好地解决性能问题。
+
+1. Responsiveness Analysis for Android Apps 合作研究 2015.7-2015.8
+	* 针对安卓卡顿现象进行分析诊断并自动化优化。
+	* 使用Sampling策略解决响应时间过长问题，使用AppInsight策略解决work thread时间过长问题。
+	* 完成Intellij插件，可方便使用Android Studio的插件功能使用分析工具。
