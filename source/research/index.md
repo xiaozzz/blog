@@ -3,9 +3,9 @@ title: Research
 layout: page
 ---
 5. Qualitative and Quantitative Analysis of AI Accelerators that Promote the Development of AI: CPU, GPU, FPGA and ASIC
-	* 项目时间：2017-03 至 2017-12
+	* 项目时间：2018-02 至 2018-03
 	* 关键词： AI, CPU, GPU, FPGA, ASCI
-	* 内容：通过细粒度的调度的方式，优化vGPU性能，提升帧数性能。
+	* 内容：调研AI发展与AI加速器间互相促进的关系，并给出定量与定性分析
 
 4. Efficient Sharing and Fine-Grained Scheduling of Virtualized GPU Resources
 	* 项目时间：2017-03 至 2017-12
