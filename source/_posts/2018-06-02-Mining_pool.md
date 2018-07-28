@@ -10,6 +10,7 @@ banner:
 [Amoveo github](https://github.com/zack-bitcoin/amoveo)
 [Amoveo mining pool](https://github.com/zack-bitcoin/amoveo-mining-pool)
 [Amoveo explorer](http://veoscan.io/)
+更新： 此币已经被国内某矿池垄断，达到了全网约 95% 。
 
 [Ulord](https://ulord.one/) is a P2P value delivery public chain.
 [Ulord github](https://github.com/UlordChain/UlordChain)
