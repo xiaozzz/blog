@@ -11,6 +11,7 @@ layout: page
 	* 项目时间：2017-03 至 2017-12
 	* 关键词： GPU, GPU virtualization, efficient sharing, fine-grained scheduling
 	* 内容：通过细粒度的调度的方式，优化vGPU性能，提升帧数性能。
+	* Accepted by: ICDCS 2018
 
 3. Hybrid-Cloud Survey
 	* 项目时间：2016-02 至 2017-03
