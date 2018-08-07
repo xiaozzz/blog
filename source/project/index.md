@@ -3,7 +3,7 @@ title: Project
 layout: page
 ---
 
-8. 天池Nimiq矿池
+8. [天池Nimiq矿池](https://nimiq.skypool.org/)
 	* 项目时间：2017-12 至 2018-02
 	* 项目内容：针对区块链币种Nimiq制作一套挖矿+矿池完整的系统
 	* 技术栈： nodejs, egg, mongodb, react
@@ -24,7 +24,7 @@ layout: page
 	* 未实现的部分：EVM虚拟机，部署在真实的区块链
 	* Github：[https://github.com/Azard/policy-ios](https://github.com/Azard/policy-ios)
 
-6. 区块链浏览器Block-explorer配置
+6. [区块链浏览器Block-explorer配置](http://118.31.213.53:3001/insight/)
 	* 项目时间：2017-11
 	* 项目内容：配置bitcoin以及bitcoin-cash区块链浏览器
 	* 技术栈： nodejs, docker

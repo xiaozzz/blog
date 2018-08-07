@@ -7,7 +7,7 @@ layout: page
 	* 关键词： AI, CPU, GPU, FPGA, ASCI
 	* 内容：调研AI发展与AI加速器间互相促进的关系，并给出定量与定性分析
 
-4. Efficient Sharing and Fine-Grained Scheduling of Virtualized GPU Resources
+4. [Efficient Sharing and Fine-Grained Scheduling of Virtualized GPU Resources](https://ieeexplore.ieee.org/abstract/document/8416340/)
 	* 项目时间：2017-03 至 2017-12
 	* 关键词： GPU, GPU virtualization, efficient sharing, fine-grained scheduling
 	* 内容：通过细粒度的调度的方式，优化vGPU性能，提升帧数性能。
@@ -26,7 +26,7 @@ layout: page
 	* 关键词： time-triggered, latency-intensive, mixed flows, datacenter networks
 	* 内容：在数据中心网络使用TTE的思想，保证性能。
 
-1. Experience: Measuring Instability of Mobility Management in Cellular Networks
+1. [Measuring Instability of Mobility Management in Cellular Networks](https://ieeexplore.ieee.org/abstract/document/8360840/)
 	* 项目时间：2016-07 至 2016-09
 	* 关键词： cellular networks, efficiency improvement, handoff, handoff loop, QoS
 	* Introduction：手机信号切换，切换循环问题，希望通过实际数据发现问题并解决。
