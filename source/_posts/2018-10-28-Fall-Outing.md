@@ -10,8 +10,8 @@ banner:
 地点：莫干山
 
 
-![莫干山](/2018/10/28/Fall-Outing/pic1.jpg)
+![莫干山](/2018/10/28/Fall-Outing/pic1.JPG)
 
 <!--more-->
 
-![合照](/2018/10/28/Fall-Outing/pic2.jpg)
+![合照](/2018/10/28/Fall-Outing/pic2.JPG)
